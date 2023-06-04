@@ -1,0 +1,6 @@
+faster-whisper
+ffmpeg
+pysubs2
+openai
+regex
+ipywidgets
